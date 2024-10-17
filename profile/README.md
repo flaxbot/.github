@@ -1,5 +1,5 @@
 # Welcome to Flaxbot
-[Co-founder : Gabriel](https://github.com/bishopgabriel)
+[Co-founder : Gabriel Agbo](https://github.com/bishopgabriel)
 
 **Flaxbot** is an advanced AI trading analysis system designed to help traders stay ahead in the ever-evolving trading market. Our platform analyzes real-time market data using deep learning to provide precise predictions and valuable insights, empowering traders to make informed investment decisions.
 
